@@ -1,4 +1,4 @@
 # gtaw-pager
-A emergency pager system for the GTA:W TR Discord server.
+A emergency pager system for the GTA RP Discord server.
 
-![Screenshot 2023-06-06 023352](https://github.com/thatfugue/gtaw-pager/assets/55662450/5e674a99-3978-4354-be4b-d8b313d24fca)
+![Ekran görüntüsü 2023-07-11 035511](https://github.com/thatfugue/pager-system/assets/55662450/1c17d15b-601f-467e-aa2d-9d746add0ebc)
